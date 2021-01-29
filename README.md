@@ -1,7 +1,7 @@
 # Priest-Booking-System
-![](priest_pic1)
-![](priest_pic2)
-![](priest_pic3)
-![](priest_pic4)
-![](priest_pic5)
-![](priest_pic6)
+![](priest_pic1.jpg)  
+![](priest_pic2.jpg)  
+![](priest_pic3.jpg)  
+![](priest_pic4.jpg)  
+![](priest_pic5.jpg)  
+![](priest_pic6.jpg)  
